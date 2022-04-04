@@ -1,5 +1,11 @@
 # **Estimating population prevalence of potential airflow obstruction using different spirometric criteria: a pooled cross-sectional analysis of persons aged 40–95 years in England and Wales**
 
+Shaun Scholes<sup>1</sup>, Alison Moody<sup>1</sup>, Jennifer S Mindell<sup>1</sup> 
+
+*BMJ Open* 2014;4:e005685.
+
+<sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom. 
+
 **ABSTRACT**
 
 **Objectives**: Consistent estimation of the burden of chronic obstructive pulmonary disease (COPD) has been hindered by differences 
