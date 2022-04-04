@@ -15,8 +15,7 @@ representative population surveys.
 
 **Design**: Pooled cross-sectional analysis of Wave 2 of the UK Household Longitudinal Survey and the Health Survey for England 2010, including 7879 participants,
 aged 40–95 years, who lived in England and Wales, without diagnosed asthma and with good-quality spirometry data. Potential airflow obstruction was
-defined using self-reported physician-diagnosed COPD; a fixed threshold (FT) forced expiratory volume in 1 s/forced vital capacity (FEV1/FVC) ratio <0.7 and an
-age-specific, sex-specific, height-specific and ethnic specific lower limit of normal (LLN). Standardised questions elicited self-reported information on
+defined using self-reported physician-diagnosed COPD; a fixed threshold (FT) forced expiratory volume in 1 s/forced vital capacity (FEV<sup>1</sup>/FVC) ratio <0.7 and an age-specific, sex-specific, height-specific and ethnic specific lower limit of normal (LLN). Standardised questions elicited self-reported information on
 demography, smoking history, ethnicity, occupation, respiratory symptoms and cardiovascular disease.
 
 **Results**: Consistent across definitions, participants classed with obstructed airflow were more likely to be older, currently smoke, have higher pack-years of
